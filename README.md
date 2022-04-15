@@ -13,9 +13,9 @@
 
 <h3 align="left">Mis redes sociales:</h3>
 <p align="left">
-<a href="https://twitter.com/Santyxs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Santyxs" height="30" width="40" /></a>
-<a href="https://instagram.com/santos_grey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Santyxs" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/Santos Grey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Santos" height="30" width="40" /></a>
+<a href="https://twitter.com/Santysx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Santysx" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_santos_grey_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Santos Grey" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCYHKoH-_BZshOyyjlRseu_w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Santos Grey" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Algo de lo que sé:</h3>
