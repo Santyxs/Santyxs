@@ -23,6 +23,4 @@
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/es-ES/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a> <a href="https://www.sqlite.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Santyxs&show_icons=true&locale=en&layout=compact" alt="Santyxs" /></p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Santyxs&show_icons=true&locale=en" alt="Santyxs" /></p>
