@@ -5,6 +5,8 @@
 
 - 🔭 Estoy trabajando en la nueva versión de [Santitos](https://www.santitos.tk)
 
+- 💻 También traduzco plugins
+
 - 🔎 Estoy aprendiendo **JavaScript & HTML**
 
 - 📩 Puedes hablarme en mi server de Discord **https://discord.gg/E2hAAa7F6q**
