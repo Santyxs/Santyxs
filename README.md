@@ -5,7 +5,7 @@
 
 - 🔭 Estoy trabajando en la nueva versión de [Santitos](https://www.santitos.tk)
 
-- 💻 También traduzco plugins
+- 💻 También traduzco [plugins](https://github.com/users/Santyxs/projects/2)
 
 - 🔎 Estoy aprendiendo **JavaScript & HTML**
 
