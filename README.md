@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Santyxs&label=Profile%20views&color=0e75b6&style=flat" alt="Santyxs" /> </p>
 
-- 🔭 Estoy trabajando en la nueva versión de [Santitos](https://www.santitos.tk)
+- 🗒️ Mi [Portafolios](https://santyxs.vercel.app)
 
 - 💻 También traduzco [plugins](https://github.com/users/Santyxs/projects/2) de Minecraft
 
-- 🔎 Estoy aprendiendo **JavaScript & HTML**
+- 🔎 Estoy aprendiendo **Java**
 
 - 📩 Puedes hablarme en mi server de Discord **https://discord.gg/E2hAAa7F6q**
 
