@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Santyxs&label=Profile%20views&color=0e75b6&style=flat" alt="Santyxs" /> </p>
 
-- 🗒️ Mi [Portafolios](https://santyxs.vercel.app)
+- 🗒️ Mi [Portafolio](https://santyxs.vercel.app)
 
 - 💻 También traduzco [plugins](https://github.com/users/Santyxs/projects/2) de Minecraft
 
