@@ -16,7 +16,6 @@
 <h3 align="left">Mis redes sociales:</h3>
 <p align="left">
 <a href="https://twitter.com/Santysx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Santysx" height="30" width="40" /></a>
-<a href="https://instagram.com/_santos_grey_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Santos Grey" height="30" width="40" /></a>
 <a href="https://youtube.com/channel/UCYHKoH-_BZshOyyjlRseu_w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Santos Grey" height="30" width="40" /></a>
 </p>
 
